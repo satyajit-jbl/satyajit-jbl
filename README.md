@@ -1,4 +1,4 @@
-![logo](https://github.com/satyajit-jbl/satyajit-jbl/blob/main/github-header-image%20(5).png)
+![logo](https://github.com/satyajit-jbl/satyajit-jbl/blob/main/github-header-image%20(7).png)
 <h1 align="center">Hi 👋, I'm Satyajit Ghosh</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
