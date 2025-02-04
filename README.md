@@ -10,6 +10,7 @@
 - 🌱 I’m currently learning **Next.js**
 
 - ⚡ Fun fact **I have a good sense of humor 😊**
+- 📞 Contact: +8801819864771
 
 ---
 
