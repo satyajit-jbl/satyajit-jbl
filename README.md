@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Satyajit Ghosh</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
+<img align="right" alt="coding" width="400" src="https://media1.tenor.com/m/2nKSTDDekOgAAAAC/coding-kira.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satyajit-jbl&label=Profile%20views&color=0e75b6&style=flat" alt="satyajit-jbl" /> </p>
 
 - 🔭 I’m currently working on [tailTails](https://tailtales-b9d67.web.app/)
