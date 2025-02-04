@@ -70,10 +70,18 @@
 
 <h3 align="center">📊 GitHub Stats</h3>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=satyajit-jbl&show_icons=true&locale=en&layout=compact" alt="Most Used Languages" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=satyajit-jbl&show_icons=true&locale=en" alt="GitHub Stats" height="200"/>
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=satyajit-jbl&show_icons=true&locale=en&layout=compact" alt="Most Used Languages" width="400"/>
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=satyajit-jbl&show_icons=true&locale=en" alt="GitHub Stats" width="400"/>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=satyajit-jbl&" alt="GitHub Streak" />
