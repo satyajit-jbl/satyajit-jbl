@@ -16,7 +16,7 @@
 ---
 
 <h3> Connect with me</h3>
-<p style="display: flex; align-items: center; gap: 15px;">
+<p style="display: flex; align-items: center; gap: 45px;">
   <a href="https://linkedin.com/in/satyajit-ghosh-09a16532" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
          alt="LinkedIn" height="40" width="40" />
