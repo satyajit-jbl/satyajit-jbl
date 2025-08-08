@@ -84,7 +84,7 @@
 
   <!-- Row 1: Languages + Stats -->
  
-    <table style="border: none;">
+    <table>
     <tr>
       <td>
         <img 
