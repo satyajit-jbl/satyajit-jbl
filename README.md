@@ -35,43 +35,20 @@
 <h3 align="center">🚀 Languages & Tools</h3>
 
 <p align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50"/>
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://nextjs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="50" height="50"/>
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://nodejs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="50" height="50"/>
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://expressjs.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="50" height="50"/>
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50"/>
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://firebase.google.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="50" height="50"/>
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="Tailwind CSS" width="50" height="50"/>
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.figma.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="50" height="50"/>
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://postman.com" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="50" height="50"/>
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.adobe.com/products/illustrator.html" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="50" height="50"/>
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.photoshop.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="50" height="50"/>
-  </a>
+[![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)&nbsp;&nbsp;&nbsp;
+[![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg)](https://reactjs.org/)&nbsp;&nbsp;&nbsp;
+[![Next.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg)](https://nextjs.org/)&nbsp;&nbsp;&nbsp;
+[![Node.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg)](https://nodejs.org/)&nbsp;&nbsp;&nbsp;
+[![Express](https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg)](https://expressjs.com/)&nbsp;&nbsp;&nbsp;
+[![MongoDB](https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg)](https://www.mongodb.com/)&nbsp;&nbsp;&nbsp;
+[![Firebase](https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg)](https://firebase.google.com/)&nbsp;&nbsp;&nbsp;
+[![Tailwind](https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg)](https://tailwindcss.com/)&nbsp;&nbsp;&nbsp;
+[![Figma](https://www.vectorlogo.zone/logos/figma/figma-icon.svg)](https://www.figma.com/)&nbsp;&nbsp;&nbsp;
+[![Postman](https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg)](https://postman.com)&nbsp;&nbsp;&nbsp;
+[![Illustrator](https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg)](https://www.adobe.com/products/illustrator.html)&nbsp;&nbsp;&nbsp;
+[![Photoshop](https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg)](https://www.photoshop.com/)
 </p>
+
 
 
 ---
