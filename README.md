@@ -71,24 +71,7 @@
   <a href="https://www.photoshop.com/" target="_blank" rel="noopener noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="Photoshop" width="50" height="50" border="0" hspace="12" vspace="12" />
   </a>
-  <a href="https://www.photoshop.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="Photoshop" width="50" height="50" border="0" hspace="12" vspace="12" />
-  </a>
-  <a href="https://www.photoshop.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="Photoshop" width="50" height="50" border="0" hspace="12" vspace="12" />
-  </a>
-  <a href="https://www.photoshop.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="Photoshop" width="50" height="50" border="0" hspace="12" vspace="12" />
-  </a>
-  <a href="https://www.photoshop.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="Photoshop" width="50" height="50" border="0" hspace="12" vspace="12" />
-  </a>
-  <a href="https://www.photoshop.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="Photoshop" width="50" height="50" border="0" hspace="12" vspace="12" />
-  </a>
-  <a href="https://www.photoshop.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="Photoshop" width="50" height="50" border="0" hspace="12" vspace="12" />
-  </a>
+  
 </p>
 
 
