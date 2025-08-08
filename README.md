@@ -79,20 +79,37 @@
 
 ---
 
-<h3 align="center">📊 GitHub Stats</h3>
+## 📊 GitHub Stats
 
 <div align="center">
 
-  <!-- Most Used Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=satyajit-jbl&show_icons=true&locale=en&layout=compact" 
-       alt="Most Used Languages" width="400" />
+  <!-- Row 1: Languages + Stats -->
+  <table>
+    <tr>
+      <td>
+        <img 
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyajit-jbl&layout=compact&theme=tokyonight&langs_count=6" 
+          alt="Most Used Languages" 
+          height="200px"
+        />
+      </td>
+      <td>
+        <img 
+          src="https://github-readme-stats.vercel.app/api?username=satyajit-jbl&show_icons=true&theme=tokyonight&count_private=true" 
+          alt="GitHub Stats" 
+          height="200px"
+        />
+      </td>
+    </tr>
+  </table>
 
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=satyajit-jbl&show_icons=true&locale=en" 
-       alt="GitHub Stats" width="400" />
-
-  <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=satyajit-jbl&theme=default&date=20250809" 
-       alt="GitHub Streak" width="820" />
+  <!-- Row 2: GitHub Streak (Vercel mirror) -->
+  <img 
+    src="https://github-readme-streak-stats-v2.vercel.app/?user=satyajit-jbl&theme=tokyonight" 
+    alt="GitHub Streak"
+    height="200px"
+  />
 
 </div>
+
+
