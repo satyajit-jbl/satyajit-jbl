@@ -71,6 +71,21 @@
   <a href="https://www.photoshop.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="50" height="50" border="0" hspace="12" />
   </a>
+  <a href="https://www.photoshop.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="50" height="50" border="0" hspace="12" />
+  </a>
+  <a href="https://www.photoshop.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="50" height="50" border="0" hspace="12" />
+  </a>
+  <a href="https://www.photoshop.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="50" height="50" border="0" hspace="12" />
+  </a>
+  <a href="https://www.photoshop.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="50" height="50" border="0" hspace="12" />
+  </a>
+  <a href="https://www.photoshop.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="50" height="50" border="0" hspace="12" />
+  </a>
 </p>
 
 
