@@ -19,15 +19,14 @@
 <p align="left">
   <a href="https://linkedin.com/in/satyajit-ghosh-09a16532" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
-         alt="LinkedIn" height="40" width="40" hspace="15" />
+         alt="LinkedIn" height="40" width="40" />
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://fb.com/urte4u" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" 
          alt="Facebook" height="40" width="40" />
   </a>
 </p>
-
-
 
 
 
