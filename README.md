@@ -78,23 +78,26 @@
 
 
 ---
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyajit-jbl&layout=compact&langs_count=6&bg_color=FFF9DB&text_color=5A3E00&title_color=F4B400&icon_color=FFD700" 
-    alt="Most Used Languages" 
-    height="200px"
-    style="object-fit: contain;"
-  />
-
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=satyajit-jbl&show_icons=true&count_private=true&bg_color=FFF9DB&text_color=5A3E00&title_color=F4B400&icon_color=FFD700" 
-    alt="GitHub Stats" 
-    height="200px"
-    style="object-fit: contain;"
-  />
-
-</div>
+<table>
+  <tr>
+    <td style="height: 200px; vertical-align: middle;">
+      <img 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyajit-jbl&layout=compact&langs_count=6&bg_color=FFF9DB&text_color=5A3E00&title_color=F4B400&icon_color=FFD700" 
+        alt="Most Used Languages" 
+        height="200px"
+        style="display: block; margin: auto;"
+      />
+    </td>
+    <td style="height: 200px; vertical-align: middle;">
+      <img 
+        src="https://github-readme-stats.vercel.app/api?username=satyajit-jbl&show_icons=true&count_private=true&bg_color=FFF9DB&text_color=5A3E00&title_color=F4B400&icon_color=FFD700" 
+        alt="GitHub Stats" 
+        height="200px"
+        style="display: block; margin: auto;"
+      />
+    </td>
+  </tr>
+</table>
 
 
 
