@@ -83,7 +83,8 @@
 <div align="center">
 
   <!-- Row 1: Languages + Stats -->
-  <table>
+ 
+    <table style="border-collapse: collapse; border: none;">
     <tr>
       <td>
         <img 
