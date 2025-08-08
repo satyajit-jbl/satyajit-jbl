@@ -6,12 +6,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satyajit-jbl&label=Profile%20views&color=0e75b6&style=flat" alt="satyajit-jbl" /> </p>
 
-- 🔭 I’m currently working on [TailTales](https://tailtales-b9d67.web.app/)
-
-- 🌱 I’m currently learning **Next.js**
-
-- ⚡ Fun fact **I have a good sense of humor 😊**
+- 🎯 Fullstack Developer specializing in **React, Next.js, Node.js, Express**
+- 🌱 Currently learning **Next.js, WebRTC, TypeScript, Express, Mongoose, MySQL, Redux**
+- 🐾 Working on [Chatya](https://chatappdeploy-tyld.onrender.com/) – Real-Time Chat Application
+- 🎨 Passionate about **creative UI & interactive experiences**
 - 📞 Contact: +8801819864771
+- ⚡ Fun fact: **I have a good sense of humor 😊**
 
 ---
 
