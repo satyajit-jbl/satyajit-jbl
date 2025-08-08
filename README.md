@@ -71,6 +71,54 @@
   <a href="https://www.photoshop.com/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="Photoshop" width="50" height="50" style="margin-right: 20px;" />
   </a>
+  </a>
+  <a href="https://www.photoshop.com/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="Photoshop" width="50" height="50" style="margin-right: 20px;" />
+  </a>
+  </a>
+  <a href="https://www.photoshop.com/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="Photoshop" width="50" height="50" style="margin-right: 20px;" />
+  </a>
+  </a>
+  <a href="https://www.photoshop.com/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="Photoshop" width="50" height="50" style="margin-right: 20px;" />
+  </a>
+  </a>
+  <a href="https://www.photoshop.com/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="Photoshop" width="50" height="50" style="margin-right: 20px;" />
+  </a>
+  </a>
+  <a href="https://www.photoshop.com/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="Photoshop" width="50" height="50" style="margin-right: 20px;" />
+  </a>
+  </a>
+  <a href="https://www.photoshop.com/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="Photoshop" width="50" height="50" style="margin-right: 20px;" />
+  </a>
+  </a>
+  <a href="https://www.photoshop.com/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="Photoshop" width="50" height="50" style="margin-right: 20px;" />
+  </a>
+  </a>
+  <a href="https://www.photoshop.com/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="Photoshop" width="50" height="50" style="margin-right: 20px;" />
+  </a>
+  </a>
+  <a href="https://www.photoshop.com/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="Photoshop" width="50" height="50" style="margin-right: 20px;" />
+  </a>
+  </a>
+  <a href="https://www.photoshop.com/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="Photoshop" width="50" height="50" style="margin-right: 20px;" />
+  </a>
+  </a>
+  <a href="https://www.photoshop.com/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="Photoshop" width="50" height="50" style="margin-right: 20px;" />
+  </a>
+  </a>
+  <a href="https://www.photoshop.com/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="Photoshop" width="50" height="50" style="margin-right: 20px;" />
+  </a>
 </marquee>
 
 
