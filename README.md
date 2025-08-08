@@ -78,26 +78,39 @@
 
 
 ---
-<table>
-  <tr>
-    <td style="height: 200px; vertical-align: middle;">
-      <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyajit-jbl&layout=compact&langs_count=6&bg_color=FFF9DB&text_color=5A3E00&title_color=F4B400&icon_color=FFD700" 
-        alt="Most Used Languages" 
-        height="200px"
-        style="display: block; margin: auto;"
-      />
-    </td>
-    <td style="height: 200px; vertical-align: middle;">
-      <img 
-        src="https://github-readme-stats.vercel.app/api?username=satyajit-jbl&show_icons=true&count_private=true&bg_color=FFF9DB&text_color=5A3E00&title_color=F4B400&icon_color=FFD700" 
-        alt="GitHub Stats" 
-        height="200px"
-        style="display: block; margin: auto;"
-      />
-    </td>
-  </tr>
-</table>
+## 📊 GitHub Stats
+
+<div align="center">
+
+  <!-- Row 1: Languages + Stats -->
+  <table>
+    <tr>
+      <td>
+        <img 
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyajit-jbl&layout=compact&langs_count=6&bg_color=FFF9DB&text_color=5A3E00&title_color=F4B400&icon_color=FFD700" 
+          alt="Most Used Languages" 
+          height="200px"
+        />
+      </td>
+      <td>
+        <img 
+          src="https://github-readme-stats.vercel.app/api?username=satyajit-jbl&show_icons=true&count_private=true&bg_color=FFF9DB&text_color=5A3E00&title_color=F4B400&icon_color=FFD700" 
+          alt="GitHub Stats" 
+          height="200px"
+        />
+      </td>
+    </tr>
+  </table>
+
+  <!-- Row 2: GitHub Streak (Vercel mirror) -->
+  <img 
+    src="https://github-readme-streak-stats-v2.vercel.app/?user=satyajit-jbl&bg_color=FFF9DB&text_color=5A3E00&fire_color=F4B400&curr_streak_num=5A3E00&curr_streak_label=F4B400&side_labels=5A3E00&theme=default" 
+    alt="GitHub Streak"
+    height="200px"
+  />
+
+</div>
+
 
 
 
