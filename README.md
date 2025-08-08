@@ -83,8 +83,7 @@
 <div align="center">
 
   <!-- Row 1: Languages + Stats -->
- 
-    <table>
+  <table>
     <tr>
       <td>
         <img 
@@ -111,6 +110,7 @@
   />
 
 </div>
+
 
 
 
