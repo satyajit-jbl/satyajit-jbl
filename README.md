@@ -68,6 +68,8 @@
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="50" height="50" hspace="12"  />
   </a>
 </p>
+![JavaScript](https://img.shields.io/badge/JavaScript-Expert-yellow)
+![React](https://img.shields.io/badge/React-Advanced-blue)
 
 ---
 
