@@ -68,8 +68,18 @@
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="50" height="50" hspace="12"  />
   </a>
 </p>
+
+## 🛠️ Tech Stack
+
+### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-Expert-yellow)
+![TypeScript](https://img.shields.io/badge/TypeScript-Intermediate-orange)
+![Python](https://img.shields.io/badge/Python-Beginner-lightgrey)
+
+### Frontend
 ![React](https://img.shields.io/badge/React-Advanced-blue)
+![Next.js](https://img.shields.io/badge/Next.js-Intermediate-orange)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-Advanced-blue)
 
 ---
 
