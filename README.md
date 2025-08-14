@@ -6,10 +6,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satyajit-jbl&label=Profile%20views&color=0e75b6&style=flat" alt="satyajit-jbl" /> </p>
 
-- 💻 Fullstack Developer specializing in **React, Next.js, Node.js, Express**
-- 🌱 Currently learning **Next.js, TypeScript, Backend & Python**
-- 🔨 Working on [Chatya](https://chatappdeploy-tyld.onrender.com/) – Real-Time Chat Application
-- 🎨 Passionate about **creative UI & interactive experiences**
+- Fullstack Developer specializing in **React, Next.js, Node.js, Express**
+- Currently learning **Next.js, TypeScript, Backend & Python**
+- Working on [Chatya](https://chatappdeploy-tyld.onrender.com/) – Real-Time Chat Application
+- Passionate about **creative UI & interactive experiences**
 - 📞 Contact: +8801819864771
 
 ---
@@ -31,20 +31,43 @@
 
 ## 🛠️ Tech Stack
 
-### **Languages & Tools**  
+### **Languages**
+<p align="center">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" hspace="12"  />
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50" hspace="12"  />
+  </a>
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50" hspace="12"  />
+  </a>
+</p>
 
-| **Languages**       | **Frontend**         |
-|---------------------|----------------------|
-| ![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg "JavaScript" width="50" height="50") | ![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg "React" width="50" height="50") |
-| ![TypeScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg "TypeScript" width="50" height="50") | ![Next.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg "Next.js" width="50" height="50") |
-| ![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg "Python" width="50" height="50") | ![Tailwind CSS](https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg "Tailwind CSS" width="50" height="50") |
-
-| **Backend**         | **Design & Tools**    |
-|---------------------|----------------------|
-| ![Node.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg "Node.js" width="50" height="50") | ![Figma](https://www.vectorlogo.zone/logos/figma/figma-icon.svg "Figma" width="50" height="50") |
-| ![Express](https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg "Express" width="50" height="50") | ![Photoshop](https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg "Photoshop" width="50" height="50") |
-| ![MongoDB](https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg "MongoDB" width="50" height="50") | ![Illustrator](https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg "Illustrator" width="50" height="50") |
-| | ![Postman](https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg "Postman" width="50" height="50") |
+### **Frameworks & Tools**
+<p align="center">
+  <a href="https://reactjs.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50" hspace="12"  />
+  </a>
+  <a href="https://nextjs.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="50" height="50" hspace="12"  />
+  </a>
+  <a href="https://nodejs.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="50" height="50" hspace="12"  />
+  </a>
+  <a href="https://expressjs.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="50" height="50" hspace="12"  />
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50" hspace="12"  />
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="50" height="50" hspace="12"  />
+  </a>
+  <a href="https://www.figma.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="50" height="50" hspace="12"  />
+  </a>
+</p>
 
 ---
 
