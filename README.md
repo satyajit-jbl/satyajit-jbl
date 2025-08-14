@@ -30,37 +30,6 @@
 ---
 
 
-## 🛠️ Tech Stack
-
-### **`</>`**
-![JavaScript](https://img.shields.io/badge/JavaScript-Expert-yellow)
-![TypeScript](https://img.shields.io/badge/TypeScript-Intermediate-orange)
-![Python](https://img.shields.io/badge/Python-Beginner-lightgrey)
-![HTML5](https://img.shields.io/badge/HTML5-Advanced-blue)
-![CSS3](https://img.shields.io/badge/CSS3-Advanced-blue)
-
-### **`⚛️`**
-![React](https://img.shields.io/badge/React-Advanced-blue)
-![Next.js](https://img.shields.io/badge/Next.js-Intermediate-orange)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-Advanced-blue)
-![Redux](https://img.shields.io/badge/Redux-Intermediate-orange)
-<!-- ![Material UI](https://img.shields.io/badge/Material_UI-Intermediate-orange) -->
-
-### **`🔙`**
-![Node.js](https://img.shields.io/badge/Node.js-Intermediate-brightgreen)
-![Express](https://img.shields.io/badge/Intermediate-Advanced-9cf)
-![MongoDB](https://img.shields.io/badge/MongoDB-Intermediate-ff69b4)
-![Firebase](https://img.shields.io/badge/Firebase-Intermediate-orange)
-![MySQL](https://img.shields.io/badge/MySQL-Beginner-orange)
-
-<!-- ### **Tools & Platforms** -->
-### **`🛠️`**
-![Git](https://img.shields.io/badge/Git-Intermediate-blue)
-![Postman](https://img.shields.io/badge/Postman-Intermediate-orange)
-![Figma](https://img.shields.io/badge/Figma-Beginner-blue)
-![Photoshop](https://img.shields.io/badge/Photoshop-Intermediate-orange)
-![Illustrator](https://img.shields.io/badge/Illustrator-Intermediate-lightgrey)
-
 ---
 ## 🛠️ Tech Stack
 
