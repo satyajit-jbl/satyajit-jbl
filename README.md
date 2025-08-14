@@ -46,7 +46,7 @@
 ![Redux](https://img.shields.io/badge/Redux-Intermediate-orange)
 <!-- ![Material UI](https://img.shields.io/badge/Material_UI-Intermediate-orange) -->
 
-### **`🔙` **
+### **`🔙`**
 ![Node.js](https://img.shields.io/badge/Node.js-Intermediate-brightgreen)
 ![Express](https://img.shields.io/badge/Intermediate-Advanced-9cf)
 ![MongoDB](https://img.shields.io/badge/MongoDB-Intermediate-ff69b4)
