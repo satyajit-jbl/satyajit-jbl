@@ -31,47 +31,20 @@
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+### **Languages & Tools**  
 
-  <!-- Row 1 -->
-  <div style="display: flex; justify-content: center; gap: 20px; margin-bottom: 20px;">
-    <!-- Languages -->
-    <div>
-      <h3>Languages</h3>
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" border="0" hspace="12" /></a>
-      <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50" border="0" hspace="12" /></a>
-      <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50" border="0" hspace="12" /></a>
-    </div>
+| **Languages**       | **Frontend**         |
+|---------------------|----------------------|
+| ![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg "JavaScript" width="50" height="50") | ![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg "React" width="50" height="50") |
+| ![TypeScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg "TypeScript" width="50" height="50") | ![Next.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg "Next.js" width="50" height="50") |
+| ![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg "Python" width="50" height="50") | ![Tailwind CSS](https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg "Tailwind CSS" width="50" height="50") |
 
-    <!-- Frontend -->
-    <div>
-      <h3>Frontend</h3>
-      <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50" border="0" hspace="12" /></a>
-      <a href="https://nextjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="50" height="50" border="0" hspace="12" /></a>
-      <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="50" height="50" border="0" hspace="12" /></a>
-    </div>
-  </div>
-
-  <!-- Row 2 -->
-  <div style="display: flex; justify-content: center; gap: 20px;">
-    <!-- Backend -->
-    <div>
-      <h3>Backend</h3>
-      <a href="https://nodejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="50" height="50" border="0" hspace="12" /></a>
-      <a href="https://expressjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="50" height="50" border="0" hspace="12" /></a>
-      <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50" border="0" hspace="12" /></a>
-    </div>
-
-    <!-- Design & Tools -->
-    <div>
-      <h3>Design & Tools</h3>
-      <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="50" height="50" border="0" hspace="12" /></a>
-      <a href="https://www.adobe.com/products/photoshop.html" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="Photoshop" width="50" height="50" border="0" hspace="12" /></a>
-      <a href="https://www.adobe.com/products/illustrator.html" target="_blank"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="50" height="50" border="0" hspace="12" /></a>
-      <a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="50" height="50" border="0" hspace="12" /></a>
-    </div>
-  </div>
-</div>
+| **Backend**         | **Design & Tools**    |
+|---------------------|----------------------|
+| ![Node.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg "Node.js" width="50" height="50") | ![Figma](https://www.vectorlogo.zone/logos/figma/figma-icon.svg "Figma" width="50" height="50") |
+| ![Express](https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg "Express" width="50" height="50") | ![Photoshop](https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg "Photoshop" width="50" height="50") |
+| ![MongoDB](https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg "MongoDB" width="50" height="50") | ![Illustrator](https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg "Illustrator" width="50" height="50") |
+| | ![Postman](https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg "Postman" width="50" height="50") |
 
 ---
 
