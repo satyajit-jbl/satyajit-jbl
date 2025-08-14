@@ -14,41 +14,41 @@
 
 ---
 
+
 <h3>Connect with me</h3>
 <p align="left">
   <a href="https://linkedin.com/in/satyajit-ghosh-09a16532" target="_blank" style="text-decoration:none;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
-         alt="LinkedIn" height="40" width="40" />
+         alt="LinkedIn" height="40" width="40" align="middle"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://fb.com/urte4u" target="_blank" style="text-decoration:none;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" 
-         alt="Facebook" height="40" width="40" />
+         alt="Facebook" height="40" width="40" align="middle"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://wa.me/+8801819864771" target="_blank" style="text-decoration:none;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" 
-         alt="WhatsApp" height="40" width="40" />
+         alt="WhatsApp" height="40" width="40" align="middle"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://codewithsatyajit.netlify.app/" target="_blank" style="text-decoration:none;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/personal-website.svg" 
-         alt="Portfolio Website" height="40" width="40" />
+  <a href="https://your-portfolio-link.com" target="_blank" style="text-decoration:none;">
+    <img src="https://raw.githubusercontent.com/satyajit-jbl/satyajit-jbl/main/website.PNG" 
+         alt="Portfolio Website" height="40" width="40" style="border-radius:50%;" align="middle"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://instagram.com/satyajiiiiiiit" target="_blank" style="text-decoration:none;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" 
-         alt="Instagram" height="40" width="40" />
+         alt="Instagram" height="40" width="40" align="middle" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://discord.gg/xdEDMDsn2x" target="_blank" style="text-decoration:none;">
+  <a href="https://discord.gg/xdEDMDsn2x" target="_blank" style="text-decoration:none; margin-top:10px;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" 
-         alt="Discord" height="40" width="40" />
+         alt="Discord" height="50" width="50" align="middle" />
   </a>
-  
 </p>
 
-[![Portfolio Website](https://img.shields.io/badge/Website-Visit-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](ttps://codewithsatyajit.netlify.app/)
+
 
 ---
 
