@@ -25,7 +25,30 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" 
          alt="Facebook" height="40" width="40" />
   </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://wa.me/+8801819864771" target="_blank" style="text-decoration:none;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" 
+         alt="WhatsApp" height="40" width="40" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://codewithsatyajit.netlify.app/" target="_blank" style="text-decoration:none;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/personal-website.svg" 
+         alt="Portfolio Website" height="40" width="40" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://instagram.com/satyajiiiiiiit" target="_blank" style="text-decoration:none;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" 
+         alt="Instagram" height="40" width="40" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://discord.gg/xdEDMDsn2x" target="_blank" style="text-decoration:none;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" 
+         alt="Discord" height="40" width="40" />
+  </a>
+  
 </p>
+
+[![Portfolio Website](https://img.shields.io/badge/Website-Visit-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](ttps://codewithsatyajit.netlify.app/)
 
 ---
 
