@@ -81,6 +81,36 @@
 ![Next.js](https://img.shields.io/badge/Next.js-Intermediate-orange)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-Advanced-blue)
 
+## 🛠️ Tech Stack
+
+### **Languages**
+![JavaScript](https://img.shields.io/badge/JavaScript-Expert-yellow)
+![TypeScript](https://img.shields.io/badge/TypeScript-Intermediate-orange)
+![Python](https://img.shields.io/badge/Python-Beginner-lightgrey)
+![HTML5](https://img.shields.io/badge/HTML5-Advanced-blue)
+![CSS3](https://img.shields.io/badge/CSS3-Advanced-blue)
+
+### **Frontend**
+![React](https://img.shields.io/badge/React-Advanced-blue)
+![Next.js](https://img.shields.io/badge/Next.js-Intermediate-orange)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-Advanced-blue)
+![Redux](https://img.shields.io/badge/Redux-Intermediate-orange)
+![Material UI](https://img.shields.io/badge/Material_UI-Intermediate-orange)
+
+### **Backend**
+![Node.js](https://img.shields.io/badge/Node.js-Expert-brightgreen)
+![Express](https://img.shields.io/badge/Express-Advanced-9cf)
+![MongoDB](https://img.shields.io/badge/MongoDB-Intermediate-ff69b4)
+![Firebase](https://img.shields.io/badge/Firebase-Intermediate-orange)
+![MySQL](https://img.shields.io/badge/MySQL-Intermediate-orange)
+
+### **Tools & Platforms**
+![Git](https://img.shields.io/badge/Git-Advanced-blue)
+![Postman](https://img.shields.io/badge/Postman-Intermediate-orange)
+![Figma](https://img.shields.io/badge/Figma-Advanced-blue)
+![Photoshop](https://img.shields.io/badge/Photoshop-Intermediate-orange)
+![Illustrator](https://img.shields.io/badge/Illustrator-Beginner-lightgrey)
+
 ---
 
 ## 📊 GitHub Stats
