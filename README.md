@@ -139,9 +139,9 @@
       width="350"
     />
     <img 
-      src="https://github-readme-stats.vercel.app/api?username=satyajit-jbl&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github&bg_color=FFF9DB&text_color=5A3E00&title_color=F4B400&icon_color=FFD700" 
+      src="https://github-readme-stats.vercel.app/api?username=satyajit-jbl&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github&show=reviews,prs_merged,prs_merged_percentage,issues,stars&bg_color=FFF9DB&text_color=5A3E00&title_color=F4B400&icon_color=FFD700" 
       alt="GitHub Stats" 
-      height="220"
+      height="230"
       width="400"
     />
   </div>
@@ -152,5 +152,6 @@
     height="220"
   />
 </div>
+
 
 
