@@ -101,6 +101,54 @@
 </table>
 
 ---
+## 🛠️ Tech Stack
+
+<table style="border-collapse: collapse; width:100%;">
+<tr>
+<td style="background-color:#FFF9DB; padding:10px; color:#000000;">
+
+### **`</>` Languages**
+![JavaScript](https://img.shields.io/badge/JavaScript-Expert-yellow)
+![TypeScript](https://img.shields.io/badge/TypeScript-Intermediate-orange)
+![Python](https://img.shields.io/badge/Python-Beginner-lightgrey)
+![HTML5](https://img.shields.io/badge/HTML5-Advanced-blue)
+![CSS3](https://img.shields.io/badge/CSS3-Advanced-blue)
+
+</td>
+<td style="background-color:#FFF9DB; padding:10px; color:#000000;">
+
+### **`⚛️ Frontend`**
+![React](https://img.shields.io/badge/React-Advanced-blue)
+![Next.js](https://img.shields.io/badge/Next.js-Intermediate-orange)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-Advanced-blue)
+![Redux](https://img.shields.io/badge/Redux-Intermediate-orange)
+
+</td>
+</tr>
+<tr>
+<td style="background-color:#FFF9DB; padding:10px; color:#000000;">
+
+### **`🔙 Backend`**
+![Node.js](https://img.shields.io/badge/Node.js-Intermediate-orange)
+![Express](https://img.shields.io/badge/Express-Advanced-blue)
+![MongoDB](https://img.shields.io/badge/MongoDB-Intermediate-orange)
+![Firebase](https://img.shields.io/badge/Firebase-Intermediate-orange)
+![MySQL](https://img.shields.io/badge/MySQL-Beginner-lightgrey)
+
+</td>
+<td style="background-color:#FFF9DB; padding:10px; color:#000000;">
+
+### **`🛠️ Tools & Platforms`**
+![Git](https://img.shields.io/badge/Git-Intermediate-orange)
+![Postman](https://img.shields.io/badge/Postman-Intermediate-orange)
+![Figma](https://img.shields.io/badge/Figma-Beginner-lightgrey)
+![Photoshop](https://img.shields.io/badge/Photoshop-Intermediate-orange)
+![Illustrator](https://img.shields.io/badge/Illustrator-Intermediate-orange)
+
+</td>
+</tr>
+</table>
+---
 
 
 
