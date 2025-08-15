@@ -123,11 +123,12 @@
   <img 
     src="https://github-readme-streak-stats-v2.vercel.app/?user=satyajit-jbl&bg_color=FFF9DB&text_color=5A3E00&fire_color=F4B400&curr_streak_num=5A3E00&curr_streak_label=F4B400&side_labels=5A3E00" 
     alt="GitHub Streak"
-    height="250px"
+    height="200px"
     style="margin-top: 20px;"
   />
 </div>
 
+<!--
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -152,6 +153,7 @@
     height="220"
   />
 </div>
+-->
 
 
 
