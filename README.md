@@ -139,7 +139,7 @@
       width="350"
     />
     <img 
-      src="https://github-readme-stats.vercel.app/api?username=satyajit-jbl&show_icons=true&count_private=true&bg_color=FFF9DB&text_color=5A3E00&title_color=F4B400&icon_color=FFD700" 
+      src="https://github-readme-stats.vercel.app/api?username=satyajit-jbl&show_icons=true&count_private=true&bg_color=FFF9DB&text_color=5A3E00&title_color=F4B400&icon_color=FFD700&card_height=220" 
       alt="GitHub Stats" 
       height="220"
       width="400"
@@ -152,3 +152,4 @@
     height="220"
   />
 </div>
+
