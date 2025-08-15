@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satyajit-jbl&label=Profile%20views&color=0e75b6&style=flat" alt="satyajit-jbl" /> </p>
 
-- Fullstack Developer specializing in **React, Next.js, Node.js, Express**
-- Currently learning **Next.js, TypeScript, Backend & Python**
-- Working on [Chatya](https://chatappdeploy-tyld.onrender.com/) – Real-Time Chat Application
+- Fullstack Developer | **React · Node.js · Express · MongoDB**
+- Currently learning **Next.js . TypeScript · Backend Development · Python**
+- Working on **[Chatya](https://chatappdeploy-tyld.onrender.com/)** – Real-Time Chat Application
 - Passionate about **creative UI & interactive experiences**
 - 📞 Contact: +8801819864771
 
@@ -52,8 +52,6 @@
 
 ---
 
-
----
 ## 🛠️ Tech Stack
 
 <table>
@@ -82,25 +80,28 @@
 <td>
 
 ### **`🔙 Backend`**
-![Node.js](https://img.shields.io/badge/Node.js-Intermediate-brightgreen)
-![Express](https://img.shields.io/badge/Express-Advanced-9cf)
-![MongoDB](https://img.shields.io/badge/MongoDB-Intermediate-ff69b4)
+![Node.js](https://img.shields.io/badge/Node.js-Intermediate-orange)
+![Express](https://img.shields.io/badge/Express-Advanced-blue)
+![MongoDB](https://img.shields.io/badge/MongoDB-Intermediate-orange)
 ![Firebase](https://img.shields.io/badge/Firebase-Intermediate-orange)
-![MySQL](https://img.shields.io/badge/MySQL-Beginner-orange)
+![MySQL](https://img.shields.io/badge/MySQL-Beginner-lightgrey)
 
 </td>
 <td>
 
 ### **`🛠️ Tools & Platforms`**
-![Git](https://img.shields.io/badge/Git-Intermediate-blue)
+![Git](https://img.shields.io/badge/Git-Intermediate-orange)
 ![Postman](https://img.shields.io/badge/Postman-Intermediate-orange)
-![Figma](https://img.shields.io/badge/Figma-Beginner-blue)
+![Figma](https://img.shields.io/badge/Figma-Beginner-lightgrey)
 ![Photoshop](https://img.shields.io/badge/Photoshop-Intermediate-orange)
-![Illustrator](https://img.shields.io/badge/Illustrator-Intermediate-lightgrey)
+![Illustrator](https://img.shields.io/badge/Illustrator-Intermediate-orange)
 
 </td>
 </tr>
 </table>
+
+---
+
 
 
 ## 📊 GitHub Stats
