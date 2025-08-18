@@ -113,7 +113,7 @@
     />
     
   </div>
-
+<!--
 <div align="center">
   <div style="display: flex; justify-content: center; gap: 20px; align-items: center;">
     <img 
@@ -129,6 +129,7 @@
       style="object-fit: contain; width: 400px;"
     />
   </div>
+  -->
   <img 
     src="https://github-readme-streak-stats-v2.vercel.app/?user=satyajit-jbl&bg_color=FFF9DB&text_color=5A3E00&fire_color=F4B400&curr_streak_num=5A3E00&curr_streak_label=F4B400&side_labels=5A3E00" 
     alt="GitHub Streak"
