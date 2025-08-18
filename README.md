@@ -111,12 +111,7 @@
       height="200px"
       style="object-fit: contain; width: 350px;"
     />
-    <img 
-      src="https://github-readme-stats.vercel.app/api?username=satyajit-jbl&show_icons=true&count_private=true&bg_color=FFF9DB&text_color=5A3E00&title_color=F4B400&icon_color=FFD700" 
-      alt="GitHub Stats" 
-      height="200px"
-      style="object-fit: contain; width: 400px;"
-    />
+    
   </div>
 
 <div align="center">
