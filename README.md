@@ -104,7 +104,7 @@
 
 
 ## 📊 GitHub Stats
-<div style="display: flex; justify-content: center; gap: 20px; align-items: center;">
+<div align="center" style="display: flex; justify-content: center; gap: 20px; align-items: center;">
     <img 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyajit-jbl&layout=compact&langs_count=6&bg_color=FFF9DB&text_color=5A3E00&title_color=F4B400&icon_color=FFD700" 
       alt="Most Used Languages" 
