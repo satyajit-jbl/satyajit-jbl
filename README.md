@@ -6,13 +6,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satyajit-jbl&label=Profile%20views&color=0e75b6&style=flat" alt="satyajit-jbl" /> </p>
 
-- Fullstack Developer | **React · Node.js · Express · MongoDB**
-- Currently learning **Next.js . TypeScript · Backend Development · Python**
+- Fullstack Developer | **React • Node.js • Express • MongoDB**
+- Currently learning **Next.js . TypeScript • Backend Development • Python**
 - Working on **[Chatya](https://chatappdeploy-tyld.onrender.com/)** – Real-Time Chat Application
 - Passionate about **creative UI & interactive experiences**
 - 📞 Contact: +8801819864771
 
 ---
+
 
 <h3>Connect with me</h3>
 <p align="left">
@@ -46,6 +47,8 @@
          alt="Discord" height="50" width="50" align="middle" />
   </a>
 </p>
+
+
 
 ---
 
@@ -99,6 +102,7 @@
 
 ---
 
+
 ## 📊 GitHub Stats
 <div align="center" style="display: flex; justify-content: center; gap: 20px; align-items: center;">
     <img 
@@ -107,20 +111,62 @@
       height="200px"
       style="object-fit: contain; width: 350px;"
     />
-</div>
-
+    
+  </div>
+<!--
 <div align="center">
+  <div style="display: flex; justify-content: center; gap: 20px; align-items: center;">
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyajit-jbl&layout=compact&langs_count=6&bg_color=FFF9DB&text_color=5A3E00&title_color=F4B400&icon_color=FFD700" 
+      alt="Most Used Languages" 
+      height="200px"
+      style="object-fit: contain; width: 350px;"
+    />
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=satyajit-jbl&show_icons=true&count_private=true&bg_color=FFF9DB&text_color=5A3E00&title_color=F4B400&icon_color=FFD700" 
+      alt="GitHub Stats" 
+      height="200px"
+      style="object-fit: contain; width: 400px;"
+    />
+  </div>
+  -->
+  <div align="center">
     <img 
     src="https://github-readme-streak-stats-v2.vercel.app/?user=satyajit-jbl&bg_color=FFF9DB&text_color=5A3E00&fire_color=F4B400&curr_streak_num=5A3E00&curr_streak_label=F4B400&side_labels=5A3E00" 
     alt="GitHub Streak"
     height="200px"
     style="margin-top: 20px;"
   />
+  </div>
 </div>
 
----
+<!--
+## 📊 GitHub Stats
 
-## 🐍 Contribution Snake
+<div align="center">
+  <div style="display: flex; justify-content: center; gap: 20px; align-items: center;">
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyajit-jbl&layout=compact&langs_count=6&bg_color=FFF9DB&text_color=5A3E00&title_color=F4B400&icon_color=FFD700" 
+      alt="Most Used Languages" 
+      height="236"
+      width="350"
+    />
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=satyajit-jbl&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github&show=reviews,discussions_answered,prs_merged,prs_merged_percentage&bg_color=FFF9DB&text_color=5A3E00&title_color=F4B400&icon_color=FFD700" 
+      alt="GitHub Stats" 
+      height="236"
+      width="410"
+    />
+  </div>
 
-![GitHub Snake Light](https://raw.githubusercontent.com/satyajit-jbl/satyajit-jbl/output/github-snake.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://raw.githubusercontent.com/satyajit-jbl/satyajit-jbl/output/github-snake-dark.svg#gh-dark-mode-only)
+  <img 
+    src="https://github-readme-streak-stats-v2.vercel.app/?user=satyajit-jbl&bg_color=FFF9DB&text_color=5A3E00&fire_color=F4B400&curr_streak_num=5A3E00&curr_streak_label=F4B400&side_labels=5A3E00" 
+    alt="GitHub Streak"
+    height="220"
+  />
+</div>
+-->
+
+
+
+
