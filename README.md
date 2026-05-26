@@ -152,7 +152,7 @@
       width="350"
     />
     <img 
-      src="https://github-readme-stats-sigma-five.vercel.app/api?username=satyajit-jbl&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github&show=reviews,discussions_answered,prs_merged,prs_merged_percentage&bg_color=FFF9DB&text_color=5A3E00&title_color=F4B400&icon_color=FFD700" 
+      src="https://github-stats-nu-self.vercel.app/api/stats" 
       alt="GitHub Stats" 
       height="236"
       width="410"
