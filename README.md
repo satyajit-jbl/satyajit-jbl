@@ -105,16 +105,47 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<!-- Same row on desktop; stacked on mobile -->
+<style>
+  .stats-pair {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: stretch;
+    gap: 12px;
+    width: 100%;
+    max-width: 1020px;
+    margin: 0 auto;
+  }
+  .stats-pair img {
+    flex: 1 1 280px;
+    width: min(495px, 100%);
+    max-width: 495px;
+    height: 195px;
+    object-fit: contain;
+    border-radius: 12px;
+  }
+  @media (max-width: 720px) {
+    .stats-pair img {
+      flex: 1 1 100%;
+      width: 100%;
+      max-width: 100%;
+    }
+  }
+</style>
+
+<div align="center" class="stats-pair">
 
   <img
     src="https://github-stats-nu-self.vercel.app/api/stats"
     alt="GitHub Overview"
+    width="495"
     height="195"
   />
   <img
     src="https://github-stats-nu-self.vercel.app/api/top-langs?langs_count=6"
     alt="Most Used Languages"
+    width="495"
     height="195"
   />
 
