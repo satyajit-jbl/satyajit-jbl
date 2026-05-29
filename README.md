@@ -112,14 +112,14 @@
         <img
           src="https://github-stats-nu-self.vercel.app/api/stats"
           alt="GitHub Overview"
-          height="195"
+          height="210"
         />
       </td>
       <td valign="top" align="center">
         <img
           src="https://github-stats-nu-self.vercel.app/api/top-langs?langs_count=6"
           alt="Most Used Languages"
-          height="195"
+          height="210"
         />
       </td>
     </tr>
