@@ -111,6 +111,11 @@
       height="200px"
       style="object-fit: contain; width: 350px;"
     />
+     <img
+    src="https://github-stats-nu-self.vercel.app/api/stats"
+    alt="GitHub Overview"
+    height="195"
+  />
     
   </div>
 <!--
