@@ -110,14 +110,14 @@
     <tr>
       <td valign="top" align="center">
         <img
-          src="https://github-stats-nu-self.vercel.app/api/stats"
+          src="https://github-stats-nu-self.vercel.app/api/stats?v=3"
           alt="GitHub Overview"
           height="210"
         />
       </td>
       <td valign="top" align="center">
         <img
-          src="https://github-stats-nu-self.vercel.app/api/top-langs?langs_count=6"
+          src="https://github-stats-nu-self.vercel.app/api/top-langs?langs_count=6&v=3"
           alt="Most Used Languages"
           height="210"
         />
